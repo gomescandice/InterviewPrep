@@ -1,0 +1,10 @@
+/Users/candicegomes/Projects/InterviewStudy/bin/Debug/netcoreapp3.1/InterviewStudy
+/Users/candicegomes/Projects/InterviewStudy/bin/Debug/netcoreapp3.1/InterviewStudy.deps.json
+/Users/candicegomes/Projects/InterviewStudy/bin/Debug/netcoreapp3.1/InterviewStudy.runtimeconfig.json
+/Users/candicegomes/Projects/InterviewStudy/bin/Debug/netcoreapp3.1/InterviewStudy.runtimeconfig.dev.json
+/Users/candicegomes/Projects/InterviewStudy/bin/Debug/netcoreapp3.1/InterviewStudy.dll
+/Users/candicegomes/Projects/InterviewStudy/bin/Debug/netcoreapp3.1/InterviewStudy.pdb
+/Users/candicegomes/Projects/InterviewStudy/obj/Debug/netcoreapp3.1/InterviewStudy.AssemblyInfoInputs.cache
+/Users/candicegomes/Projects/InterviewStudy/obj/Debug/netcoreapp3.1/InterviewStudy.AssemblyInfo.cs
+/Users/candicegomes/Projects/InterviewStudy/obj/Debug/netcoreapp3.1/InterviewStudy.dll
+/Users/candicegomes/Projects/InterviewStudy/obj/Debug/netcoreapp3.1/InterviewStudy.pdb
